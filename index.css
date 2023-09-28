@@ -1,0 +1,13 @@
+body{
+    background-color: skyblue;
+}
+<!--data2-->
+#data2{background-image:url(https://www.united.com.bd/wp-content/uploads/2021/11/UIU-Banner-New-scaled.jpg);
+    background-attachment: fixed;
+    background-size: contain; }    
+    table,th,td{border: 1px solid ;
+        padding:10px;
+        border-collapse: collapse;
+        text-align: center;
+            }  
+
