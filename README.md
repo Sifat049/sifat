@@ -1,9 +1,3 @@
 
 
-kjjj
-
-
-
-
-
 # sifat
